@@ -1,0 +1,17 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Module headadditions for Chyrp Lite\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: https://exdomo.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#. This file is distributed under the same license as the Chyrp Lite package.
+#: modules/headadditions/info.php:6
+msgid "Use the &lt;head&gt; to add <mark>scripts</mark> (like analytics- or consent-scripts), overwrite <mark>styles</mark> or create your own which you can use in your blogposts and improve <mark>SEO</mark>, see README.md for recommendations and instructions."
+msgstr ""
